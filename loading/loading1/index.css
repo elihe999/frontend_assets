@@ -1,0 +1,27 @@
+#loading-1 .item {
+    position: absolute;
+    bottom: 0;
+    height: 20px;
+    display: inline-block;
+    width: 48px;
+    animation-name: loading_one;
+    
+}
+
+.item-1 {
+    left: 10px;
+    background-color: red;
+    animation-delay: .2s;
+}
+
+.item-2 {
+    left: 60px;
+    background-color: red;
+    animation-delay: .3s;
+}
+
+@keyframes loading_one {
+    0% {
+        
+    }
+}
