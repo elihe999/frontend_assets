@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.5.2 on linux)" rpa="false" generated="20190625 11:40:24.612">
+<suite id="s1" source="/home/test.robot" name="Test">
+<test id="s1-t1" name="Test Robot Framework Logging">
+<status endtime="20190625 11:40:24.660" status="FAIL" starttime="20190625 11:40:24.660" critical="yes">Test case contains no keywords.</status>
+</test>
+<test id="s1-t2" name="Log &quot;Test Loggin&quot;">
+<status endtime="20190625 11:40:24.661" status="FAIL" starttime="20190625 11:40:24.661" critical="yes">Test case contains no keywords.</status>
+</test>
+<status endtime="20190625 11:40:24.661" status="FAIL" starttime="20190625 11:40:24.613"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="2" pass="0">Critical Tests</stat>
+<stat fail="2" pass="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat id="s1" pass="0" fail="2" name="Test">Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
